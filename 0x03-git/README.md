@@ -1,1 +1,1 @@
-my echo
+hello world in bash
